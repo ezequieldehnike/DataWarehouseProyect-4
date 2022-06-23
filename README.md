@@ -18,7 +18,7 @@ Clonar proyecto desde la consola :
 
 ## 3 - Crear base de datos 
 
-Importar el Archivo data_warehouse.sql desde el panel de Administracion
+Importar el Archivo datawarehouse.sql desde el panel de Administracion
 Recuerde Editar el archivo configuracion/configuracion.js con los datos de su entorno.
 
 ## 4 - Iniciar el servidor 
